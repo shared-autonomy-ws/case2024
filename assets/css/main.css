@@ -2812,7 +2812,8 @@ input, select, textarea {
 		.features li {
 			width: calc(20% - 2em);
 			margin-left: 2em;
-			margin-top: 0em;
+			margin-top: 0em !important;
+			margin-bottom: 1em;
 			padding: 0;
 		}
 
