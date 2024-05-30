@@ -3755,7 +3755,9 @@ input, select, textarea {
 			}
 
 		}
-
+.features img {
+  max-height: 200px;
+}
 /* Wrapper */
 
 	#wrapper {
